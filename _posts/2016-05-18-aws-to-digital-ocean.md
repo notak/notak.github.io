@@ -7,7 +7,7 @@ layout: default
 
 ## First steps into the cloud
 
-When we first launched Hubdub, we started out running on a single dedicated server provided by ServePath. Once customer numbers started to grow we augmented this with a number of virtual instances hosted on GoGrid. GoGrid was just one of a bunch of different cloud infrastructure products which started to flood the market at that time, and in this case a logical choice because they were a ServePath product, and could be easily networked to the dedicated instance.
+When we first launched we started out running on a single dedicated server provided by ServePath. As customer numbers started to grow we augmented this with a number of virtual instances hosted on GoGrid. GoGrid was just one of a bunch of different cloud infrastructure products which started to flood the market at that time, and in this case a logical choice because they were a ServePath product, and could be easily networked to the dedicated instance.
 
 It quickly became clear that GoGrid at the time was really trying to bootstrap itself before they had got a really comprehensive product in place. Problems included a lack of OS images - the dedicated server and all my development systems were running Ubuntu 8.04, but the only options on GoGrid were Red Hat or CentOS. In the days before Puppet and Chef this made configuration scripts extremely complex, and made even simple sysadmin tasks like checking log files and installing security updates a pain. Many options like networking which seemed simple on the face of it turned into massive time sinks, and even getting the server clocks to run to time was a nightmare. 
 
