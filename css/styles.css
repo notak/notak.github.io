@@ -5,3 +5,9 @@ body {
 h1 {
 	color: gray;
 }
+
+.container {
+	max-width: 40em;
+    text-align: justify;
+    margin: auto;
+}
