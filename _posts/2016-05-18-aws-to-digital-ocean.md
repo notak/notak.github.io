@@ -1,9 +1,11 @@
 ---
-title: "Switching from AWS to Digital Ocean. Part 1 - How I got there"
+title: "Moving from AWS to Digital Ocean"
 layout: default
 ---
 
-# Switching from AWS to Digital Ocean. Part 1 - How I got there
+# Moving from AWS to Digital Ocean
+
+> This post explores my history of using the cloud, from early experiments through 7 years of AWS, and finally the decision to look at a new provider
 
 ## First steps into the cloud
 
