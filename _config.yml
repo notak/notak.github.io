@@ -1,2 +1,4 @@
 name: Chris Stafford
 layout: default
+gems:
+  - jekyll-redirect-from

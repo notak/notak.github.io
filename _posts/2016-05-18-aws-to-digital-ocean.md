@@ -1,11 +1,8 @@
 ---
 title: "Moving from AWS to Digital Ocean"
+summary: "This post explores my history of using the cloud, from early experiments through 7 years of AWS, and finally the decision to look at a new provider."
 layout: default
 ---
-
-# Moving from AWS to Digital Ocean
-
-###### This post explores my history of using the cloud, from early experiments through 7 years of AWS, and finally the decision to look at a new provider
 
 ## First steps into the cloud
 

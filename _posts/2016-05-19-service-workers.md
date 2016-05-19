@@ -1,11 +1,9 @@
 ---
 title: "Why you want a Service Worker"
+summary: "This post outlines the benefits of having a service worker on your site. There will be follow-up posts on the challenges of developing a service worker, and on solving problems you will encounter."
 layout: default
+redirect_from: "/"
 ---
-
-# Why you want a Service Worker
-
-###### This post outlines the benefits of having a service worker on your site. There will be follow-up posts on the challenges of developing a service worker, and on what I think is good practice in solving problems you will encounter.
 
 If you read the articles from Google, you will learn that service workers are the latest way to turn your website into an application, and you'll probably think &lsquo;so far so 1998&rsquo;. So what is it about service workers that makes them so different? 
 
