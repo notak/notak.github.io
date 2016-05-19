@@ -1,3 +1,8 @@
+---
+title: "Why you want a Service Worker"
+layout: default
+---
+
 # Why you want a Service Worker
 
 ###### This post outlines the benefits of having a service worker on your site. There will be follow-up posts on the challenges of developing a service worker, and on what I think is good practice in solving problems you will encounter.
