@@ -37,12 +37,16 @@ ul p {
 .container ul {
 	flex: 0 0 20em;
 	font-size: 0.8em;
+}
+
+
+@media (min-width: 62em)/*, (max-height: 30em)*/ {
+.container ul {
 	margin-left: 3em;
 	padding-left: 2em;
 	border-left: 1px solid #eee;	
 }
-
-
+} 
 
 @media (max-width: 62em)/*, (max-height: 30em)*/ { 
 	.container {
