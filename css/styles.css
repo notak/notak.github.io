@@ -56,11 +56,18 @@ ul p {
 	.container ul {
 		flex: 0 1 40em;
 		max-width: 48em;
+		padding-left: 0px;
+		display: flex;
+		justify-content: space-between;
+	}
+	.container ul li {
+		list-style-type: none;
+		flex: 0 0 45%;
 	}
 }
 
 @media (max-width: 42em)/*, (max-height: 30em)*/ { 
-	.content {
+	.container {
 		padding: 0 1em;
 	}
 }
