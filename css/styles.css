@@ -59,6 +59,11 @@ ul p {
 	}
 }
 
+@media (max-width: 42em)/*, (max-height: 30em)*/ { 
+	.content {
+		padding: 0 1em;
+	}
+}
 
 
 
