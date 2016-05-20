@@ -54,14 +54,20 @@ ul p {
 		align-items: center;
 	}
 	.container ul {
-		flex: 0 1 40em;
 		max-width: 48em;
 		padding-left: 0px;
+	}
+	.container ul li {
+		list-style-type: none;
+	}
+}
+
+@media (max-width: 62em), (min-width: 42em) { 
+	.container ul {
 		display: flex;
 		justify-content: space-between;
 	}
 	.container ul li {
-		list-style-type: none;
 		flex: 0 0 45%;
 	}
 }
