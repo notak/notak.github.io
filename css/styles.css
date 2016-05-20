@@ -62,7 +62,7 @@ ul p {
 	}
 }
 
-@media (max-width: 62em), (min-width: 42em) { 
+@media (max-width: 62em) and (min-width: 42em) { 
 	.container ul {
 		display: flex;
 		justify-content: space-between;
