@@ -1,5 +1,5 @@
 ---
-title: "The trouble With Service Workers"
+title: "The trouble with Service Workers"
 summary: "This post aims to describe the key challenges of developing a service worker. It follows on from yesterday's post about the benefits, and will be followed by more posts on best practices"
 layout: default
 redirect_from: "/"
