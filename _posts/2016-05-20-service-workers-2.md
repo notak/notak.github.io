@@ -2,7 +2,6 @@
 title: "The trouble with Service Workers"
 summary: "This post aims to describe the key challenges of developing a service worker. It follows on from yesterday's post about the benefits, and will be followed by more posts on best practices"
 layout: default
-redirect_from: "/"
 ---
 
 For most web developers writing service workers is hard.  While you may be experienced at developing for the web, and may even have used a range of more modern Javascript features, very few front-end developers are prepared to just jump into service worker development where modern features are centre-stage and many of the most useful features which have been so useful in the past are gone. In many ways it is more like coding in Node than on the front-end, but with the addition of a bunch of browser-specific issues and capabilities. That doesn't mean it isn't worth it, but it will likely take more trial-and-error and development time than you initially think, and the temptation to give up will be strong. 
