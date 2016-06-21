@@ -2,7 +2,6 @@
 title: "MySQL on Ubuntu 16.04"
 summary: "It has bad defaults and leaks memory like a sieve. Setting up a dev server shouldn't be this hard."
 layout: default
-redirect_from: "/"
 ---
 
 If you are trying to run MySQL on an even remotely small server running Ubuntu 16.04 you might be experiencing some issues. Say for example you are trying to run a database as a small part of a web application on a test server with a gigabyte of memory. It's fair to expect that small part to run in a couple of hundred megabytes at most right? With a default install on 16.04 you'll be lucky if it runs at all. There are couple of reasons for this. One fairly long-standing and easy to fix, and one obscure, and hopefully just an update away from resolution.
