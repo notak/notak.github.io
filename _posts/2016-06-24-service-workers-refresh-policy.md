@@ -2,7 +2,6 @@
 title: "Service Workers Refresh Policy"
 summary: "Supporting offline and making sure online users are on the latest version is hard."
 layout: default
-redirect_from: "/"
 ---
 
 This is something that might be affecting me more because my site is being very actively developed, but something that has continued to irritate me is finding a good update policy for the static assets in a web app.
