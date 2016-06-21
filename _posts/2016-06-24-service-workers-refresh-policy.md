@@ -5,7 +5,7 @@ layout: default
 redirect_from: "/"
 ---
 
-This is something that might be affecting me more because my site is being very actively developed, but something that has continued to irritate me is finding a good update policy for the static assets in a web app. 
+This is something that might be affecting me more because my site is being very actively developed, but something that has continued to irritate me is finding a good update policy for the static assets in a web app.
 
 The easiest thing to do is just not bother to cache in the service worker at all - if you just ignore the fetch event you can be sure that the browser cache will work as intended, and apart from the small network overhead of a few HTTP 304 headers (not-modified), you should get a pretty efficient set up.
 
